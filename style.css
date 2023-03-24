@@ -2,17 +2,14 @@ body {
     background-color: #000;
     color: #fff;
 }
-
 #BasicInformations {
     width: 500px;
     height: 100px;
 }
-
 #gameaccess {
     width: 500px;
     height: 70px;
 }
-
 #text1 {
     width: 300px;
     height: 60px;
