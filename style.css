@@ -1,0 +1,27 @@
+@font-face {
+    font-family: MyFont;
+    src: url("https://fonts.gstatic.com/s/delicioushandwriting/v11/6NUT8F6PJgbFWQn47_x7lOw3aRAEXg.ttf");
+}
+
+.myHeader {
+    font-family: MyFont;
+}
+
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+#BasicInformations {
+    width: 500px;
+    height: 100px;
+}
+
+#gameaccess {
+    width: 500px;
+    height: 70px;
+}
